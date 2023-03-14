@@ -22,7 +22,8 @@ function goodPractices() {
       }
     }
   }
+  return game
 }
 
 // then, call the function so it runs!
-goodPractices()
+console.log(goodPractices())
